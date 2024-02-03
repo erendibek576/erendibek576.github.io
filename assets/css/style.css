@@ -328,7 +328,7 @@ section .container {
   }
 
   section.section-show {
-    top: 0;
+    top: 100px;
   }
 }
 
