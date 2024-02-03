@@ -304,7 +304,7 @@ section {
   overflow: hidden;
   position: absolute;
   width: 100%;
-  top: 140px;
+  top: 100px;
   bottom: 100%;
   opacity: 0;
   transition: ease-in-out 0.4s;
@@ -328,7 +328,7 @@ section .container {
   }
 
   section.section-show {
-    top: 80px;
+    top: 0;
   }
 }
 
