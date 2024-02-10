@@ -26,6 +26,6 @@ Feel free to explore the source code, and if you have any questions or suggestio
 
 If you'd like to get in touch with me, you can reach me via:
 
-- Email: [Email](https://erendibek576@gmail.com/)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/muhammed-eren-dibek/)
-- Instagram: [Instagram](https://www.instagram.com/eren_dibek_57/)
+- Email: [https://erendibek576@gmail.com/](https://erendibek576@gmail.com/)
+- LinkedIn: [https://www.linkedin.com/in/muhammed-eren-dibek/](https://www.linkedin.com/in/muhammed-eren-dibek/)
+- Instagram: [https://www.instagram.com/eren_dibek_57/](https://www.instagram.com/eren_dibek_57/)
