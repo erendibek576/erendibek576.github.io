@@ -2,7 +2,7 @@
 
 Welcome to my personal portfolio website repository!
 
-This repository hosts the source code for my personal portfolio website, which is accessible at [my portfolio website](https://erendibek576.github.io/).
+This repository hosts the source code for my personal portfolio website, which is accessible at [my portfolio website](https://muhammederendibek.com).
 
 ## Structure
 
@@ -28,4 +28,4 @@ If you'd like to get in touch with me, you can reach me via:
 
 - Email: [https://erendibek576@gmail.com/](https://erendibek576@gmail.com/)
 - LinkedIn: [https://www.linkedin.com/in/muhammed-eren-dibek/](https://www.linkedin.com/in/muhammed-eren-dibek/)
-- Instagram: [https://www.instagram.com/eren_dibek_57/](https://www.instagram.com/eren_dibek_57/)
+- Instagram: [https://www.instagram.com/eren_dibek_57/](https://www.instagram.com/muhammed_eren_57/)
